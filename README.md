@@ -8,3 +8,5 @@ Yes! I am addicted to the WORDLE!
 I have created how you can know how well you performed after each WORDLE guess! You would be surprised by how fast is human brain!!
 
 Hoping to apply these logics in Machine Learning and AI alongwith making coding fun and eye-opening!
+
+Please refer to the .txt file for the word list file
